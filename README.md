@@ -1,4 +1,3 @@
-# RingOnRing-Analysis
 # Ring-On-Ring Test Analysis
 
 This script (`ring_on_ring_analysis.py`) analyzes Excel files from ring-on-ring strength tests. It calculates:
